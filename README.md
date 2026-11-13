@@ -39,3 +39,5 @@ Direção: Direita
 -Prazo e Revisões-
 Entrega Final: 10/12/2026
 
+
+https://www.canva.com/design/DAHawDCngzs/wcX3gCyH3soxT6ig-KOvJA/edit
