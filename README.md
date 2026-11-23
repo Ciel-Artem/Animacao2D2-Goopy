@@ -20,6 +20,10 @@ Idle- O personagem ficara parado com uma mão no bolso, ele fara movimento de up
 
 Idle2- O personagem fica de uma forma semi-derretida, quase como um sorvete derretendo no sol
 
+Walk- O personagem anda confiantemente e felizmente
+<img width="640" height="640" alt="sprite-animation" src="https://github.com/user-attachments/assets/5261e2b2-11e7-4378-b23e-33189360f7f5" />
+<img width="640" height="640" alt="sprite_sheet_Goopy" src="https://github.com/user-attachments/assets/fe7fa8a2-aecb-43a5-aaa7-cce61a3f1f5c" />
+
 Ataque- O personagem bota seu braço para trás, seu punho cresce de tamanho e então o personagem desfere um golpe com seu punho aumentado
 
 Pulo- As pernas do personagem diminuem, como molas ganahndo pressão, o personagem então é jogado para cima com altas velocidades
