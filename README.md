@@ -16,7 +16,7 @@ Inspirado em um estilo meio anime, tipo Persona 4 Arena, porem ao mesmo tempo ma
 
 Idle- O personagem ficara parado com uma mão na cintura, ele fara movimento de up and down
 <img width="640" height="640" alt="sprite-animation_GoopyIdle1" src="https://github.com/user-attachments/assets/168d62f5-c6a7-49c0-a135-eb6715232146" />
-<img width="640" height="640" alt="sprite_sheet_GoopyIdle1" src="https://github.com/user-attachments/assets/7b244c9f-7b16-4092-aba2-51eadcb31d12" />
+<img width="640" height="920" alt="sprite_sheet_GoopyIdle1" src="https://github.com/user-attachments/assets/7b244c9f-7b16-4092-aba2-51eadcb31d12" />
 
 Idle2- O personagem fica de uma forma semi-derretida, quase como um sorvete derretendo no sol
 
